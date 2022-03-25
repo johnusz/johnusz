@@ -1,6 +1,6 @@
 👋 Hi, I’m Jan Paczkowski (@johnusz)
 
-👀 I’m interested in everything that can be done with help of a computer (ie. programming, gaming, filmmaking, photography)
+👀 I’m interested in everything that can be done with help of a computer (ie. programming, game dev, filmmaking, photography)
 
 🌱 I’m currently learning JavaScript frameworks (React, Express), but also Dart and Flutter
 
