@@ -8,7 +8,7 @@
 
 📫 You can reach me via e-mail: johnusz@icloud.com 
 
-Thanks for checking on my profile, have na nice day :3
+Thanks for checking on my profile, have a nice day :3
 
 <!---
 johnusz/johnusz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
