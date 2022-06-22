@@ -6,9 +6,9 @@
 
 💞️ I’m looking to collaborate on small and medium-sized Flutter Projects
 
-📫 You can reach me via e-mail: johnusz@icloud.com 
+📫 You can reach me via e-mail: jan.paczkowski@outlook.com
 
-Thanks for checking on my profile, have a nice day :3
+Thanks for checking in on my profile, have a nice day 😉
 
 <!---
 johnusz/johnusz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
