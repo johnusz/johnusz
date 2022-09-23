@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">Junior Fullstack Web Developer</h3>
 
-- 🔭 I’m currently working on custom web app for local restaurant
+- 🔭 I’m currently working on block list app
 
 - 🌱 I’m currently learning **Vue, React, Django and Express**
 
